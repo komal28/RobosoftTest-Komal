@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.RobosoftTest" parent="Theme.AppCompat.NoActionBar" >
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:textColor">@color/black_overlay</item>
+        <item name="backgroundColor">@color/white</item>
+
+    </style>
+</resources>
